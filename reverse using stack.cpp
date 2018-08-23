@@ -1,3 +1,9 @@
+/*
+
+Reversing an array using stack
+
+*/
+
 #include <iostream>
 using namespace std;
 #include <stack>
