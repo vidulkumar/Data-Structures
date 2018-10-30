@@ -1,7 +1,5 @@
 /*
-
 Implementing stack manually
-
 */
 
 #include <iostream>
@@ -19,9 +17,9 @@ class Stack{
 
 		Stack() {top = -1; }	//Constructor
 	 
-		bool push(int x);
-		int pop();
-		bool isEmpty();
+		bool push(int x); //this function inserts an element on top of the stack and returns false in case of overflow
+		int pop();      //this function returns top element of stack and decreases size by 1
+		bool isEmpty(); //this function true if stack is empty False otherwise
 
 };
 
