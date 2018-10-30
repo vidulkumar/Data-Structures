@@ -1,7 +1,5 @@
 /*
-
 Implementing stack manually
-
 */
 
 #include <iostream>
