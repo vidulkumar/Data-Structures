@@ -13,8 +13,7 @@ void input(int elements){
 	int item;
 	cout<<"Enter element ["<<elements<<"] : ";
 	cin>>item;
-	myStack.push(item);
-	
+	myStack.push(item);	
 	}
 	
 void reverse(){
