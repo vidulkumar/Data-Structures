@@ -1,7 +1,5 @@
 /*
-
 Reversing an array using stack
-
 */
 
 #include <iostream>
